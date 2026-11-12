@@ -5,7 +5,7 @@
 
 === HÍR ===
 dátum: 2026. november 12. 19:39
-cím: Új parancsnoki állományt nevezett ki a champion vármegyei főigazgatója 
+cím: Új parancsnoki állományt nevezett ki a Champion Vármegyei főigazgatója 
 rövid: A Champion Vármegyei Katasztrófavédelmi Igazgatóság hivatalos állományában jelentős vezetői változások történtek, miután a vármegyei főigazgató határozatban hivatalosan is kinevezte az új parancsnoki gárdát. 
 szín: #324a5f
 kép:
