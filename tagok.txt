@@ -4,9 +4,10 @@ Péter Előd | tű. ezredes | Vezetői állomány
 Tóth István | tű. ezredes | Vezetői állomány
 Németh Marcell | tű. alezredes | Vezetői állomány · Felvételi felelős
 Eduardo Escobar | tű. őrnagy |
-Dr. Gál Andor | tű. főhadnagy | Különlegesszer-kezelő,KMSZ,Oktató
-Dr. Kerekes Márk | Hadnagy |
+Dr. Gál Andor | tű. főhadnagy | Különlegesszer-kezelő, KMSZ, Oktató
 Nagy Albin | tű. hadnagy |
+Dr. Kerekes Márk | tű. hadnagy |
 Dr. Sípos Gergely | tű. törzszászlós | Disaster Medic vezetője
 Kexino Dixon | tű. törzsőrmester |
-Dr. Kovács Marcell | KOK Akadémista
+Dr. Kovács Marcell | KOK akadémista |
+Szabó Géza | KOK akadémista |
