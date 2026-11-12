@@ -1,0 +1,56 @@
+# A hírek ebben a fájlban vannak. Minden hír a "=== HÍR ===" sorral kezdődik.
+# A # jellel kezdődő sorokat az oldal nem veszi figyelembe.
+# A legfrissebb hír legyen legfelül. A kép neve lehet üres (akkor színes háttér lesz).
+# A hosszú szövegben a bekezdéseket egy üres sor választja el.
+
+=== HÍR ===
+dátum: 2026. november 10. 15:33
+cím: Átadták az új tűzoltóállomást
+rövid: Péter Előd tű. ezredes ünnepélyes keretek között adta át a korszerű állomást.
+szín: #324a5f
+kép:
+szöveg:
+Champion Városban ünnepélyes keretek között átadták az új tűzoltóállomást. Az avatáson Péter Előd tű. ezredes köszöntötte a megjelenteket, és hangsúlyozta, hogy az új létesítmény jelentősen gyorsítja a riasztási időt a város külső területein.
+
+Az állomás korszerű eszközparkkal, modern járműcsarnokkal és saját egészségügyi helyiséggel rendelkezik, így a Disaster Medic állománya is a helyszínen tud felkészülni a beavatkozásokra.
+
+Az új állomás a nap 24 órájában készenlétben áll. Veszély esetén hívja a 112-t vagy a 105-öt!
+
+=== HÍR ===
+dátum: 2026. november 7. 10:12
+cím: Elindult az újabb KÖK akadémistaképzés
+rövid: Új jelentkezők kezdhették meg az alapképzést a Katasztrófavédelmi Oktatási Központban.
+szín: #a3262e
+kép:
+szöveg:
+Elindult az újabb akadémistaképzés a Katasztrófavédelmi Oktatási Központban (KÖK). A jelentkezők a meghallgatás sikeres teljesítése után kerültek be a programba.
+
+Az alapképzés során a leendő állomány megismerkedik a tűzoltás, a műszaki mentés és az elsősegélynyújtás alapjaival, valamint a szolgálati rend szabályaival.
+
+A következő képzésre a jelentkezés folyamatos: keresd fel Németh Marcell tű. alezredest Discordon.
+
+=== HÍR ===
+dátum: 2026. november 3. 18:40
+cím: Közös gyakorlat a rendőrséggel és a mentőkkel
+rövid: Éles helyzetet szimuláló, több szervezetet érintő gyakorlatot tartottunk.
+szín: #2f6f68
+kép:
+szöveg:
+Közös gyakorlatot tartott a Katasztrófavédelem a rendőrséggel és a mentőszolgálattal. A forgatókönyv szerint egy többjárműves baleset és az ezt követő tűz kezelését kellett összehangolniuk a szervezeteknek.
+
+A gyakorlat során a műszaki mentők kiemelték a beszorult személyeket, a Disaster Medic pedig a helyszíni ellátást biztosította.
+
+A tapasztalatokat a vezetői állomány kiértékelte, és beépíti a következő képzések anyagába.
+
+=== HÍR ===
+dátum: 2026. október 29. 09:05
+cím: Tűzvédelmi oktatás a lakosságnak
+rövid: Tájékoztató a tűzmegelőzésről és a helyes viselkedésről veszély esetén.
+szín: #b8741a
+kép:
+szöveg:
+Tűzvédelmi oktatást tartott a Katasztrófavédelem Champion Város lakosságának. A tájékoztatón szó volt a tűzmegelőzés alapjairól és arról, hogyan kell helyesen viselkedni veszély esetén.
+
+Fontos szabály: tűz esetén lifttel menekülni tilos, a lépcsőházat kell használni, és azonnal riasztani kell a tűzoltókat.
+
+A lakosság az oldalunkon található katasztrófavédelmi teszttel is ellenőrizheti a tudását.

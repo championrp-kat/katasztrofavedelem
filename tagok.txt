@@ -1,0 +1,10 @@
+# Állomány: soronként egy tag, ebben a formában:  Név | rendfokozat | beosztás
+# A beosztás lehet üres. A # jellel kezdődő sorokat az oldal nem veszi figyelembe.
+Péter Előd | tű. ezredes | Vezetői állomány
+Tóth István | tű. ezredes | Vezetői állomány
+Németh Marcell | tű. alezredes | Vezetői állomány · Felvételi felelős
+Eduardo Escobar | tű. őrnagy |
+Dr. Gál Andor | tű. hadnagy |
+Nagy Albin | tű. hadnagy |
+Dr. Sípos Gergely | tű. törzszászlós | Disaster Medic vezetője
+Kexino Dixon | tű. törzsőrmester |
