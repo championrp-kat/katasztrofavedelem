@@ -18,12 +18,12 @@ Az új állomás a nap 24 órájában készenlétben áll. Veszély esetén hív
 
 === HÍR ===
 dátum: 2026. november 7. 10:12
-cím: Elindult az újabb KÖK akadémistaképzés
+cím: Elindult az újabb KOK akadémistaképzés
 rövid: Új jelentkezők kezdhették meg az alapképzést a Katasztrófavédelmi Oktatási Központban.
 szín: #a3262e
 kép:
 szöveg:
-Elindult az újabb akadémistaképzés a Katasztrófavédelmi Oktatási Központban (KÖK). A jelentkezők a meghallgatás sikeres teljesítése után kerültek be a programba.
+Elindult az újabb akadémistaképzés a Katasztrófavédelmi Oktatási Központban (KOK). A jelentkezők a meghallgatás sikeres teljesítése után kerültek be a programba.
 
 Az alapképzés során a leendő állomány megismerkedik a tűzoltás, a műszaki mentés és az elsősegélynyújtás alapjaival, valamint a szolgálati rend szabályaival.
 
