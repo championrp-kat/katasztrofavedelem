@@ -4,17 +4,14 @@
 # A hosszú szövegben a bekezdéseket egy üres sor választja el.
 
 === HÍR ===
-dátum: 2026. november 10. 15:33
-cím: Átadták az új tűzoltóállomást
-rövid: Péter Előd tű. ezredes ünnepélyes keretek között adta át a korszerű állomást.
+dátum: 2026. november 12. 19:39
+cím: Új parancsnoki állományt nevezett ki a champion vármegyei főigazgatója 
+rövid: A Champion Vármegyei Katasztrófavédelmi Igazgatóság főigazgatója a mai napon hivatalosan kinevezte az állomány új parancsnoki karát.
 szín: #324a5f
 kép:
-szöveg:
-Champion Városban ünnepélyes keretek között átadták az új tűzoltóállomást. Az avatáson Péter Előd tű. ezredes köszöntötte a megjelenteket, és hangsúlyozta, hogy az új létesítmény jelentősen gyorsítja a riasztási időt a város külső területein.
+szöveg: A Champion Vármegyei Katasztrófavédelmi Igazgatóság hivatalos állományában jelentős vezetői változások történtek, miután a vármegyei főigazgató határozatban hivatalosan is kinevezte az új parancsnoki gárdát. Az intézkedés célja a szakmai hatékonyság további erősítése, valamint a megnövekedett operatív kihívások zökkenőmentes kezelése mind a katasztrófavédelmi, mind a mentőcsoporti feladatellátás terén.
+A parancsnoki állomány élére kinevezett szakemberek – Tóth István, Péter Előd, Németh Marcell és Eduardo Escobar – tapasztalatukkal és elhivatottságukkal biztosítják a hivatásos egységek magas szintű irányítását. Az igazgatóság vezetősége bízik abban, hogy az új parancsnokok hatékonyan fogják támogatni a beosztott állományt a mindennapi riasztások és mentési feladatok során.
 
-Az állomás korszerű eszközparkkal, modern járműcsarnokkal és saját egészségügyi helyiséggel rendelkezik, így a Disaster Medic állománya is a helyszínen tud felkészülni a beavatkozásokra.
-
-Az új állomás a nap 24 órájában készenlétben áll. Veszély esetén hívja a 112-t vagy a 105-öt!
 
 === HÍR ===
 dátum: 2026. november 7. 10:12
