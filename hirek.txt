@@ -6,12 +6,11 @@
 === HÍR ===
 dátum: 2026. november 12. 19:39
 cím: Új parancsnoki állományt nevezett ki a champion vármegyei főigazgatója 
-rövid: A Champion Vármegyei Katasztrófavédelmi Igazgatóság főigazgatója a mai napon hivatalosan kinevezte az állomány új parancsnoki karát.
+rövid: A Champion Vármegyei Katasztrófavédelmi Igazgatóság hivatalos állományában jelentős vezetői változások történtek, miután a vármegyei főigazgató határozatban hivatalosan is kinevezte az új parancsnoki gárdát. Az intézkedés célja a szakmai hatékonyság további erősítése, valamint a megnövekedett operatív kihívások zökkenőmentes kezelése mind a katasztrófavédelmi, mind a mentőcsoporti feladatellátás terén.
+A parancsnoki állomány élére kinevezett szakemberek – Tóth István, Péter Előd, Németh Marcell és Eduardo Escobar – tapasztalatukkal és elhivatottságukkal biztosítják a hivatásos egységek magas szintű irányítását. Az igazgatóság vezetősége bízik abban, hogy az új parancsnokok hatékonyan fogják támogatni a beosztott állományt a mindennapi riasztások és mentési feladatok során.
 szín: #324a5f
 kép:
 szöveg:
-A Champion Vármegyei Katasztrófavédelmi Igazgatóság hivatalos állományában jelentős vezetői változások történtek, miután a vármegyei főigazgató határozatban hivatalosan is kinevezte az új parancsnoki gárdát. Az intézkedés célja a szakmai hatékonyság további erősítése, valamint a megnövekedett operatív kihívások zökkenőmentes kezelése mind a katasztrófavédelmi, mind a mentőcsoporti feladatellátás terén.
-A parancsnoki állomány élére kinevezett szakemberek – Tóth István, Péter Előd, Németh Marcell és Eduardo Escobar – tapasztalatukkal és elhivatottságukkal biztosítják a hivatásos egységek magas szintű irányítását. Az igazgatóság vezetősége bízik abban, hogy az új parancsnokok hatékonyan fogják támogatni a beosztott állományt a mindennapi riasztások és mentési feladatok során.
 
 
 === HÍR ===
