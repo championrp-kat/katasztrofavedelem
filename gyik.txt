@@ -13,7 +13,7 @@ K: Ki vezeti a Disaster Medic osztályt?
 V: Dr. Sípos Gergely tű. törzszászlós.
 
 K: Kihez fordulhatok hatósági ügyben?
-V: A Hatósági Osztályhoz. Az osztály tagjait a Champion Roleplay Discord szerverén találod.
+V: A Tűzoltóságon keresd fel Tóth Istvánt (ügyintéző), Péter Elődöt (az osztályt ő vezeti), Németh Marcellt (ügyintéző) vagy Eduardo Escobart (ügyintéző).
 
 K: Mi a segélyhívó szám?
 V: Veszély esetén a 112-t vagy a tűzoltókat a 105-öt hívd. Az oldal játékon belüli, valós segélykérésre nem alkalmas.
