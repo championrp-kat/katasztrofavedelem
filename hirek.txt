@@ -1,27 +1,36 @@
 # A hírek ebben a fájlban vannak. Minden hír a "=== HÍR ===" sorral kezdődik.
 # A # jellel kezdődő sorokat az oldal nem veszi figyelembe.
-# A legfrissebb hír legyen legfelül. A kép neve lehet üres (akkor színes háttér lesz).
+# A legfrissebb hír legyen legfelül. A főoldalon az első három hír jelenik meg.
+# kategória: Beavatkozás, Gyakorlat, Képzés, Közlemény vagy Hír (más szöveg is lehet, az szürke jelölést kap).
+# szerző: nem kötelező, ha üres, nem jelenik meg.
+# kép: a feltöltött kép fájlneve (pl. hir1.jpg). Ha üres, színes háttér lesz a logóval.
 # A hosszú szövegben a bekezdéseket egy üres sor választja el.
 
 === HÍR ===
-dátum: 2026. november 12. 19:39
-cím: Új parancsnoki állományt nevezett ki a Champion Vármegyei főigazgatója 
-rövid: A Champion Vármegyei Katasztrófavédelmi Igazgatóság hivatalos állományában jelentős vezetői változások történtek, miután a vármegyei főigazgató határozatban hivatalosan is kinevezte az új parancsnoki gárdát. 
+dátum: 2026. november 10. 15:33
+cím: Átadták az új tűzoltóállomást
+kategória: Hír
+szerző:
+rövid: Péter Előd tű. ezredes ünnepélyes keretek között adta át a korszerű állomást.
 szín: #324a5f
 kép:
 szöveg:
-Az intézkedés célja a szakmai hatékonyság további erősítése, valamint a megnövekedett operatív kihívások zökkenőmentes kezelése mind a katasztrófavédelmi, mind a mentőcsoporti feladatellátás terén.
-A parancsnoki állomány élére kinevezett szakemberek – Tóth István, Péter Előd, Németh Marcell és Eduardo Escobar – tapasztalatukkal és elhivatottságukkal biztosítják a hivatásos egységek magas szintű irányítását. Az igazgatóság vezetősége bízik abban, hogy az új parancsnokok hatékonyan fogják támogatni a beosztott állományt a mindennapi riasztások és mentési feladatok során.
+Champion Városban ünnepélyes keretek között átadták az új tűzoltóállomást. Az avatáson Péter Előd tű. ezredes köszöntötte a megjelenteket, és hangsúlyozta, hogy az új létesítmény jelentősen gyorsítja a riasztási időt a város külső területein.
 
+Az állomás korszerű eszközparkkal, modern járműcsarnokkal és saját egészségügyi helyiséggel rendelkezik, így a Disaster Medic állománya is a helyszínen tud felkészülni a beavatkozásokra.
+
+Az új állomás a nap 24 órájában készenlétben áll. Veszély esetén hívja a 112-t vagy a 105-öt!
 
 === HÍR ===
 dátum: 2026. november 7. 10:12
 cím: Elindult az újabb KOK akadémistaképzés
-rövid: Új jelentkezők kezdhették meg az alapképzést a Katasztrófavédelmi Oktatási Központban.
+kategória: Képzés
+szerző:
+rövid: Új jelentkezők kezdhették meg az alapképzést a KOK programban.
 szín: #a3262e
 kép:
 szöveg:
-Elindult az újabb akadémistaképzés a Katasztrófavédelmi Oktatási Központban (KOK). A jelentkezők a meghallgatás sikeres teljesítése után kerültek be a programba.
+Elindult az újabb akadémistaképzés a KOK programban. A jelentkezők a meghallgatás sikeres teljesítése után kerültek be.
 
 Az alapképzés során a leendő állomány megismerkedik a tűzoltás, a műszaki mentés és az elsősegélynyújtás alapjaival, valamint a szolgálati rend szabályaival.
 
@@ -30,19 +39,23 @@ A következő képzésre a jelentkezés folyamatos: keresd fel Németh Marcell t
 === HÍR ===
 dátum: 2026. november 3. 18:40
 cím: Közös gyakorlat a rendőrséggel és a mentőkkel
+kategória: Gyakorlat
+szerző:
 rövid: Éles helyzetet szimuláló, több szervezetet érintő gyakorlatot tartottunk.
 szín: #2f6f68
 kép:
 szöveg:
 Közös gyakorlatot tartott a Katasztrófavédelem a rendőrséggel és a mentőszolgálattal. A forgatókönyv szerint egy többjárműves baleset és az ezt követő tűz kezelését kellett összehangolniuk a szervezeteknek.
 
-A gyakorlat során a műszaki mentők kiemelték a beszorult személyeket, a Disaster Medic pedig a helyszíni ellátást biztosította.
+A gyakorlat során az állomány kiemelte a beszorult személyeket, a Disaster Medic pedig a helyszíni ellátást biztosította.
 
 A tapasztalatokat a vezetői állomány kiértékelte, és beépíti a következő képzések anyagába.
 
 === HÍR ===
 dátum: 2026. október 29. 09:05
 cím: Tűzvédelmi oktatás a lakosságnak
+kategória: Közlemény
+szerző:
 rövid: Tájékoztató a tűzmegelőzésről és a helyes viselkedésről veszély esetén.
 szín: #b8741a
 kép:

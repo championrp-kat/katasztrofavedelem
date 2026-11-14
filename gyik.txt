@@ -1,0 +1,19 @@
+# Gyakori kérdések. Minden kérdés "K:" sorral, a válasz "V:" sorral kezdődik.
+# A # jellel kezdődő sorokat az oldal nem veszi figyelembe.
+K: Hogyan tudok csatlakozni a Katasztrófavédelemhez?
+V: Keresd fel Németh Marcell alezredest Discordon. Ő behív egy meghallgatásra, és ha sikeresen teljesíted, bekerülsz a KOK programba.
+
+K: Mi az a KOK program?
+V: A KOK program a felvételi folyamat utolsó lépése. KOK akadémistaként kezded meg a szolgálatot, és a rendfokozati rendszer alján indulsz.
+
+K: Milyen szervezeti egységek vannak?
+V: Disaster Medic (egészségügyi osztály), Hatósági Osztály (HO) és Katasztrófavédelmi Műveleti Szolgálat (KMSZ).
+
+K: Ki vezeti a Disaster Medic osztályt?
+V: Dr. Sípos Gergely tű. törzszászlós.
+
+K: Kihez fordulhatok hatósági ügyben?
+V: A Hatósági Osztályhoz. Az osztály tagjait a Champion Roleplay Discord szerverén találod.
+
+K: Mi a segélyhívó szám?
+V: Veszély esetén a 112-t vagy a tűzoltókat a 105-öt hívd. Az oldal játékon belüli, valós segélykérésre nem alkalmas.
