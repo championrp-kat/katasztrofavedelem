@@ -36,18 +36,16 @@ A következő képzésre a jelentkezés folyamatos: keresd fel Németh Marcell t
 
 === HÍR ===
 dátum: 2026. november 3. 18:40
-cím: Közös gyakorlat a rendőrséggel és a mentőkkel
-kategória: Gyakorlat
+cím: Ünnepélyes zászlófelvonásra és új gépjárműfecskendő átadására készülünk
+kategória: Hírek
 szerző:
-rövid: Éles helyzetet szimuláló, több szervezetet érintő gyakorlatot tartottunk.
+rövid: Intenzív előkészületekkel hangolódik állományunk a közelgő ünnepi eseményre, amelynek keretében ünnepélyes zászlófelvonásra, valamint legújabb szerünk hivatalos átadására kerül sor.
 szín: #2f6f68
-kép:
+kép: katved-epulet.jpg
 szöveg:
-Közös gyakorlatot tartott a Katasztrófavédelem a rendőrséggel és a mentőszolgálattal. A forgatókönyv szerint egy többjárműves baleset és az ezt követő tűz kezelését kellett összehangolniuk a szervezeteknek.
-
-A gyakorlat során az állomány kiemelte a beszorult személyeket, a Disaster Medic pedig a helyszíni ellátást biztosította.
-
-A tapasztalatokat a vezetői állomány kiértékelte, és beépíti a következő képzések anyagába.
+A rendezvény kiemelt mérföldkő egységünk életében: a nemzeti lobogó felvonása mellett hadrendbe állítjuk legújabb technikai eszközünket, amely jelentős mértékben növeli beavatkozási képességünket és a térség biztonságát.
+A tervezett programra meghívást kapnak a társszervek és a helyi vezetés képviselői is. A tervek szerint – az igényeknek és a hivatalos egyeztetéseknek megfelelően – az ünnepségen tiszteletét teszi majd az Országos Rendőr-főkapitányság (ORFK), a helyi Önkormányzat, az Országos Mentőszolgálat (OMSZ), valamint a Magyar Honvédség (MH) delegációja is.
+A pontos időpontról és a részletes programról hamarosan tájékoztatjuk a lakosságot és az érdeklődőket.
 
 === HÍR ===
 dátum: 2026. október 29. 09:05
