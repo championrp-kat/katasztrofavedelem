@@ -79,6 +79,8 @@ input[type=checkbox]{width:auto;margin-right:8px;vertical-align:middle}
 .nj{padding:40px 20px;text-align:center}
 .card,.row>div{min-width:0}
 input,select,textarea{min-width:0;max-width:100%}
+input[type=date]{-webkit-appearance:none;appearance:none;display:block;width:100%;min-width:0;max-width:100%;min-height:46px;text-align:left}
+input[type=date]::-webkit-date-and-time-value{text-align:left;margin:0}
 .row b,.row .m{overflow-wrap:anywhere}
 @media(max-width:560px){.who{display:none}.logo small{display:none}.topin{gap:10px}}
 </style>
@@ -311,7 +313,7 @@ VIEWS.tagok=function(v){
   us.sort(function(a,b){return (b.active-a.active)||RANKS.indexOf(b.rank)-RANKS.indexOf(a.rank)||a.name.localeCompare(b.name,'hu')});
   cache.users=us;
   var opt=RANKS.map(function(r){return '<option>'+r+'</option>'}).join('');
-  var h=head('Tagok kezelése','Új fiókok létrehozása és adatok szerkesztése (csak vezetőknek).');
+  var h=head('Tagok kezelése','Új fiókok létrehozása és adatok szerkesztése (csak adminoknak).');
   h+='<form class="card" data-form="newmember"><h2>Új tag</h2><div class="two"><div><label>Teljes név</label><input name="name" required></div><div><label>Rendfokozat</label><select name="rank">'+opt+'</select></div><div><label>Felhasználónév</label><input name="u" required autocapitalize="none" placeholder="pl. kovacs.peter"></div><div><label>Jelszó (min. 6)</label><input name="p" id="npw" required minlength="6" value="'+rnd(8)+'"></div></div><label>Beosztás (vesszővel elválasztva)</label><input name="titles" placeholder="pl. Medic, KMSZ"><div class="two"><div><label>Mentor</label><input name="mentor"></div><div><label>Belépés dátuma</label><input name="joined" type="date" value="'+today()+'"></div></div><div class="chk-row">'+chks({})+'</div><button class="btn" style="margin-top:12px">Fiók létrehozása</button><p class="note">A jelszót add át a tagnak, ő a HR fülön megváltoztathatja.</p></form>';
   h+='<div class="card"><h2>Tagok ('+us.length+')</h2>'+us.map(function(u){return '<div class="row"><div class="pr"><span class="av" style="--h:'+hue(u.name)+'">'+ini(u.name)+'</span><div><b>'+esc(u.name)+'</b> '+(u.active?'':'<span class="pill no">Inaktív</span>')+(u.role==='vezeto'?'<span class="pill v">Admin</span>':'')+'<div class="m">'+esc(rk(u.rank))+' · @'+esc(u.username)+'</div></div></div><button class="btn o s" data-act="medit" data-id="'+u.id+'">Szerkesztés</button></div><div id="ed-'+u.id+'"></div>'}).join('')+'</div>';
   v.innerHTML=h;
