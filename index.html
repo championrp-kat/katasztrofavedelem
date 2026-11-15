@@ -31,6 +31,8 @@ button{font:inherit}
 .util .wrap{display:flex;justify-content:space-between;gap:12px;padding:7px 20px;flex-wrap:wrap}
 .util b{color:#fff;font-weight:600}
 .util .sep{opacity:.4;margin:0 6px}
+.nav a.lg{color:var(--gold)}
+@media(min-width:1240px){.nav a.lg{display:none}}
 .hd{background:var(--ink);color:#fff;position:sticky;top:0;z-index:60;box-shadow:0 4px 22px rgba(0,0,0,.35)}
 .hdin{display:flex;align-items:center;gap:18px;min-height:76px}
 .brand{display:flex;align-items:center;gap:14px;flex:none}
@@ -282,12 +284,12 @@ footer .nums b{color:#fff;font:700 26px/1.2 var(--head);letter-spacing:1px}
 </style>
 </head>
 <body>
-<div class="util"><div class="wrap"><span>Champion Város<span class="sep">|</span><b>Nem hivatalos, játékon belüli oldal</b></span><span>Segélyhívó: <b>112</b><span class="sep">|</span>Tűzoltók: <b>105</b></span></div></div>
+<div class="util"><div class="wrap"><span>Champion Város<span class="sep">|</span><b>Nem hivatalos, játékon belüli oldal</b></span><span>Segélyhívó: <b>112</b><span class="sep">|</span>Tűzoltók: <b>105</b><span class="sep">|</span><a href="portal.html" style="color:var(--gold);font-weight:600">Tagi belépés</a></span></div></div>
 <header class="hd"><div class="wrap hdin">
 <a class="brand" href="#"><span class="crest" role="img" aria-label="Katasztrófavédelem címer"></span><span class="bt"><b>Katasztrófavédelem</b><small>Champion Város · Főigazgatóság</small></span></a>
 <input type="checkbox" id="nt" class="nt" aria-label="Menü megnyitása">
 <label for="nt" class="burger" aria-hidden="true"><span></span></label>
-<nav class="nav" id="nav"><a href="#magunkrol">Magunkról</a><a href="#allomany">Állomány</a><a href="#hireink">Híreink</a><a href="#lakossag">Lakosság</a><a href="#csatlakozas">Csatlakozás</a><a href="#gyik">GYIK</a><a href="#hatosagi-ugyek">Hatósági ügyek</a></nav>
+<nav class="nav" id="nav"><a href="#magunkrol">Magunkról</a><a href="#allomany">Állomány</a><a href="#hireink">Híreink</a><a href="#lakossag">Lakosság</a><a href="#csatlakozas">Csatlakozás</a><a href="#gyik">GYIK</a><a href="#hatosagi-ugyek">Hatósági ügyek</a><a href="portal.html" class="lg">Tagi belépés</a></nav>
 <span class="sos">112 <small>Segélyhívó</small></span>
 </div><div class="tri"></div></header>
 <div class="alert">Veszély esetén hívja a <b>112</b>-t vagy a <b>105</b>-öt!</div>
