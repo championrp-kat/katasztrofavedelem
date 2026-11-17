@@ -7,7 +7,7 @@ Eduardo Escobar | tű. őrnagy | Ügyintéző, Tűzoltási vezető, KMSZ, Medic,
 Dr. Gál Andor | tű. főhadnagy | Különlegesszer-kezelő, KMSZ, Oktató, Tűzoltási vezető, Medic, Vizsgabiztos
 Nagy Albin | tű. hadnagy | Medic, Különlegesszer-kezelő
 Dr. Kerekes Márk | tű. hadnagy | Tűzoltási vezető, Különlegesszer-kezelő
-Dr. Sípos Gergely | tű. törzszászlós | Disaster Medic vezetője, Oktató, Vizsgabiztos
+Dr. Sípos Gergely | tű. törzszászlós | Disaster Medic vezetője, Oktató, Vizsgabiztos, különges-szerkezelő
 Kexino Dixon | tű. törzsőrmester |
 Dr. Kovács Marcell | KOK akadémista |
 Szabó Géza | KOK akadémista |
